@@ -1,0 +1,16 @@
+body{
+    background-color:peru;
+
+}
+
+h1{
+    color:red;
+}
+
+.btn{
+    cursor: pointer;
+}
+
+.clicked{
+    color: #6c5ce7;
+}
